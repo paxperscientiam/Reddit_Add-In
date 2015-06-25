@@ -1,3 +1,5 @@
+# ignore this line
+
 Reddit/r/Excel Add-In
 
 This add-in was created to make converting Excel tables to Reddit Tables.
